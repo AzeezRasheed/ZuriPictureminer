@@ -1,16 +1,16 @@
-import React from "react";
-import Group1 from "../../assets/Group 162757.png";
-import Group2 from "../../assets/Group 162757-2.png";
-import Group3 from "../../assets/Group 162756.png";
+import React from 'react';
+import Group1 from '../../assets/Group 162757.png';
+import Group2 from '../../assets/Group 162757-2.png';
+import Group3 from '../../assets/Group 162756.png';
 function Benefits() {
   return (
-    <div className="flex flex-col items-center w-[425px] bg-[#FAFAFA] md:w-[768px]  lg:w-[1024px] ">
+    <div className="flex flex-col items-center w-[425px] bg-[#FAFAFA] md:w-screen lg:w-screen max-w-screen-2xl ">
       <div className="flex flex-col pt-[80px]  pb-20   items-center gap-[30px]  ">
         <div className="text-center gap-[10px] flex flex-col w-[307px] h-[114px] md:h-[72px] md:w-[666px] lg:w-[696px] lg:h-[98px]  ">
-          <h1 className="pl-10 w-[267px] h-[68px] font-sans font-bold text-[24px] leading-[34px] text-[#1D1D1D] text-center md:w-[457px] md:ml-[75px] lg:text-[40px] lg:w-[696px] lg:pl-0 lg:pr-36   ">
+          <h1 className="pl-10 w-[267px] h-[68px] font-sans font-bold text-[24px] leading-[34px] text-[#1D1D1D] text-center md:w-[457px] md:ml-[75px] lg:text-[40px]  lg:pl-0 lg:pr-36  lg:w-[720px] ">
             Benefits of Partnering with Us
           </h1>
-          <p className=" w-[307px] h-[36px] font-sans font-normal text-[12px] leading-[18px] text-center text-[1D1D1D] md:w-[666px] md:text-[14px] lg:text-[16px] lg:leading-[24px] lg:pl-8 ">
+          <p className=" w-[307px] h-[36px] font-sans font-normal text-[12px] leading-[18px] text-center text-[1D1D1D] md:w-[666px] md:text-[14px] lg:text-[16px] lg:leading-[24px] lg:pl-14   ">
             These are a few of the benefits that come with partnering up with us
             at Tozilla
           </p>
